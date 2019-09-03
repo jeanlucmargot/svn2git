@@ -254,3 +254,4 @@ FAQ
     that the svn tags allow changesets in them, making them not just annotated
     tags.
 
+3. Does one need to run "git init --bare [directory]" or will svn2git handle it?
